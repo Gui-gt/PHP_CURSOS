@@ -10,7 +10,17 @@
 <body>
     <?php 
 echo "Hello World";
-?>
+
+
+//tipos em php
+
+// $variavel = toda variavel cmc com o cifrao
+
+//CONST  PAIS = toda constante é assim por ser constante
+
+//<?php? > super tag
+
+    ?>
 </body>
 
 </html>
